@@ -1,3 +1,6 @@
+# Frontend (не загружать на GitHub)
+currency-exchange-frontend/
+
 # Python
 __pycache__/
 *.py[cod]
