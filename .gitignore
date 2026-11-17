@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Тесты и кэш
+.pytest_cache/
+.coverage
+htmlcov/
+
+# База данных
+*.db
+*.sqlite3
+database/*.db
+
+# IDE
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
